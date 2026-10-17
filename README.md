@@ -240,4 +240,4 @@ This repository serves as the official landing page for TeraCopy. The software i
 **Get the most recent version of TeraCopy today!**
 
 ---
-**Last updated:** 2026-10-17 21:18:07 UTC
+**Last updated:** 2026-10-17 23:41:12 UTC
